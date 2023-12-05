@@ -1,3 +1,4 @@
+"""Функция, которая делает все буквы большими"""
 def upper_text(text):
     return text.upper()
 
